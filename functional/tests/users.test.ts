@@ -1,4 +1,4 @@
-import { beforeAll, describe, expect, test } from 'vitest'
+import { describe, expect, test } from 'vitest'
 
 import App from '../src/index.js'
 
@@ -115,5 +115,4 @@ describe('Users functionnal test', async () => {
     })
 
   })
-
 })
